@@ -9,8 +9,7 @@ Colors:
 *{
     font-family: 'Raleway', sans-serif;
 }
-
-#cabecera{
+.cabecera{
     left: 0;
 	top: 0;
     width: 100%;
@@ -21,10 +20,17 @@ Colors:
     background-color: #E54E79;
     text-align: right;
 }
+.logo{
+	width: 5%;
+    float: left;
+    margin-left: 11%;
+    margin-top: 1%;
+}
 ul li{
 	display: inline-block;
 }
 ul li a{
+    margin-top: -10px;
 	display: inline-block;
 	color: white;
 	padding:20px;
@@ -33,5 +39,20 @@ ul li a{
 li a:hover{
 	background-color: #E56385;
 	color: white;
-	
+	bottom: 10px;
 }
+
+#imagen{
+    width: 100%;
+    bottom: 100%;
+}
+#ventana{
+	background-color: white;
+	width: 100px
+	height: 100px;
+	position: relative;
+	float: right;
+	margin-right: 0;
+	top: 100px;
+	left: .50px;
+} 
