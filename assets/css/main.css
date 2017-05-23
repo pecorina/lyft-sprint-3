@@ -7,6 +7,7 @@ Colors:
 #EDE9E2
 */
 *{
+	margin: 0;
     font-family: 'Raleway', sans-serif;
 }
 .cabecera{
@@ -44,15 +45,16 @@ li a:hover{
 
 #imagen{
     width: 100%;
-    bottom: 100%;
+
 }
-#ventana{
+.ventana{
 	background-color: white;
-	width: 100px
-	height: 100px;
-	position: relative;
+	border-color: yellow;
+	width: 400px
+	height: 507px;
+	position: absolute;
 	float: right;
 	margin-right: 0;
 	top: 100px;
-	left: .50px;
+	right: 0;
 } 
