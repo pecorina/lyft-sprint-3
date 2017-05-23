@@ -9,6 +9,7 @@ Colors:
 *{
 	margin: 0;
     font-family: 'Raleway', sans-serif;
+
 }
 .cabecera{
     left: 0;
@@ -50,11 +51,43 @@ li a:hover{
 .ventana{
 	background-color: white;
 	border-color: yellow;
-	width: 400px
-	height: 507px;
+	width: 507px;
+	height: 400px;
 	position: absolute;
 	float: right;
 	margin-right: 0;
 	top: 100px;
 	right: 0;
 } 
+h1{
+	position: relative;
+	margin: 40px;
+	color: #00B2A9;
+}
+h3 p{
+	position: relative;
+	margin-right:40px;
+
+}
+.imput{
+   border-radius: 10px;
+}
+#interior{
+    background-color: #00B2A9;
+    padding-bottom: 0;
+	position: relative;
+	margin-right: 0;
+	top: 100px;
+	right: 0;
+
+
+}
+#pie{
+   height: 100px;
+   background-color: #75726C;
+   bottom: 0;
+   left: 0;	
+}
+h4{
+	margin: 20px;
+}
