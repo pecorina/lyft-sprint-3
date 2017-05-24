@@ -54,14 +54,15 @@ li a:hover{
 .ventana{
 	background-color: white;
 	border-color: yellow;
-	width: 507px;
-	height: 350px;
+	width: 480px;
+	height: 300px;
 	position: absolute;
 	float: right;
 	margin-right: 0;
 	top: 200px;
 	right: 0;
 	z-index: 20;
+	padding: 20px;
 } 
 h1{
 	position: relative;
