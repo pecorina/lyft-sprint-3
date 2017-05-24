@@ -70,12 +70,14 @@ h3 p{
 
 }
 .imput{
-  
+   background-color: #E56385;
    border-radius: 10px;
+   height: 30px;
+   width: 200px;
 }
 .cora{
-	height: 10%;
-	width: 10%;
+	height: 5%;
+	width: 5%;
 
 }
 
