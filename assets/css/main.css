@@ -70,17 +70,23 @@ h3 p{
 
 }
 .imput{
+  
    border-radius: 10px;
 }
+.cora{
+	height: 10%;
+	width: 10%;
+
+}
+
 #interior{
     background-color: #00B2A9;
     padding-bottom: 0;
 	position: relative;
 	margin-right: 0;
+	height: 1000px;
 	top: 100px;
 	right: 0;
-
-
 }
 #pie{
    height: 100px;
